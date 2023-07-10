@@ -15,16 +15,11 @@ No ensejo de um melhor entendimento de como se usar a API da Tendência, abaixo 
 Arquivo BPMN com fluxo sugerido:
 
 
-[API-MultiProdutos](https://integrati.solutions/bpm/api/API-MultiProdutos.bpmn)
-
+- [API-MultiProdutos](https://integrati.solutions/bpm/api/API-MultiProdutos.bpmn)
 Arquivo BPMN com fluxo sugerido, para clientes que utilizarão **e-Gift**:
 
-
-[API-MultiProdutos eGift](https://integrati.solutions/bpm/api/API-MultiProdutos-Egift.bpmn)
-
+- [API-MultiProdutos eGift](https://integrati.solutions/bpm/api/API-MultiProdutos-Egift.bpmn)
 Arquivo BPMN com fluxo sugerido, em inglês (English version):
 
-
-[API-MultiProdutos - English version](https://integrati.solutions/bpm/api/API-MultiProdutos-EnglishVersion.bpmn)
-
+- [API-MultiProdutos - English version](https://integrati.solutions/bpm/api/API-MultiProdutos-EnglishVersion.bpmn)
 Sugestão de programa para leitura de arquivos bpmn: Camunda Modeler.
