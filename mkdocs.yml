@@ -17,14 +17,23 @@ copyright: © 2023 Company - Todos os direitos reservados
 # Page tree
 nav:
         - Home: index.md
-        - Guides:
-                - CARDHUB TO DEVELOPER:
-                        - Introdução: introducao.md
-                        - Conhecendo o portal: conhecendo.md
-                        - O que tem na API: api-multi-produtos.md
-        - API Reference: sobre.md
-        - Changelog: changelog.md
-        - Discussions: comentarios.md
+        - Guias:
+                - Introdução: introducao.md
+                - Conhecendo o portal: conhecendo.md
+                - O que tem na API: api-multi-produtos.md
+                - Como ter minha credencial: como-ter-minha-credencial.md
+                - Glossário: glossario.md
+                - API de Vendas:
+                        - Conciliação de vendas: conciliacao-de-venda.md
+                - Suporte:
+                        - Suporte e Atendimento: suporte-e-atendimento.md
+                - Boas Práticas de Integração:
+                        - Consultas: boas-praticas.md
+                        - Dependência entre transações de venda e pagamento: conciliacoes.md
+        - Referência da API: sobre.md
+        - Registro de alterações: changelog.md
+        - Discussões: comentarios.md
+        - Suporte: suporte.md 
 
                
 # Configuration
@@ -44,7 +53,7 @@ theme:
                 - content.tooltips
                 # - header.autohide
                 - navigation.expand
-                - navigation.footer
+                # - navigation.footer
                 - navigation.indexes
                 # - navigation.instant
                 # - navigation.prune

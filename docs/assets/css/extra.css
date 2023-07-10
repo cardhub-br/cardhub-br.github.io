@@ -14,7 +14,6 @@ img[src$="centershadow"] {
 }
 
 /* Advertências clássicas */
-
 .md-typeset .admonition,
 .md-typeset details {
   border-width: 0;
