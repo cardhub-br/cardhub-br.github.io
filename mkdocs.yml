@@ -29,10 +29,8 @@ theme:
         name: material
         custom_dir: overrides
         language: pt-BR
-        icon:
-                logo: fontawesome/solid/computer
-        #logo: assets/images/logo-white.png
-        #favicon: assets/images/favicon.png
+        logo: assets/images/favicon-cardhub.png
+        favicon: assets/images/favicon-cardhub.png
         features:
                 - announce.dismiss
                 # - content.action.edit
