@@ -18,7 +18,10 @@ copyright: © 2023 Company - Todos os direitos reservados
 nav:
         - Home: index.md
         - Guides:
-                Submenu exemplo: suporte/faq.md
+                - CARDHUB TO DEVELOPER:
+                        - Introdução: introducao.md
+                        - Conhecendo o portal: conhecendo.md
+                        - O que tem na API: api-multi-produtos.md
         - API Reference: sobre.md
         - Changelog: changelog.md
         - Discussions: comentarios.md
