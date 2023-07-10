@@ -6,10 +6,10 @@ site_description: >-
   Explore todo o potencial do portal CardHub to Developers!
 
 # Repository
-repo_name: cardhub-br.github.io
+#repo_name: cardhub-br.github.io
 repo_url: https://github.com/cardhub-br/cardhub-br.github.io/
 edit_uri: edit/main/docs
-edit_uri_template: 'blob/main/docs/{path}'
+#edit_uri_template: 'blob/main/docs/{path}'
 
 # Copyright
 copyright: © 2023 Company - Todos os direitos reservados
@@ -46,7 +46,7 @@ theme:
         features:
                 - announce.dismiss
                 # - content.action.edit
-                # - content.action.view
+                - content.action.view
                 - content.code.annotate
                 - content.code.copy
                 # - content.tabs.link
@@ -125,7 +125,7 @@ plugins:
         - minify:
                 minify_html: true
         - git-revision-date-localized:
-                # enabled: !ENV [CI, false]
+                enabled: !ENV [CI, false]
                 enable_creation_date: true
                 fallback_to_build_date: false
                 type: timeago
