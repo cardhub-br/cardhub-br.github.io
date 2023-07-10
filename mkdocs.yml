@@ -1,5 +1,5 @@
 # Project information
-site_name: Template Mkdocs Material
+site_name: CardHub To Developers
 site_url: http://cardhub-br.github.io
 site_author: cardhub-br
 site_description: >-
@@ -16,10 +16,12 @@ copyright: © 2023 Company - Todos os direitos reservados
 
 # Page tree
 nav:
-        - Início: index.md
-        - Menu exemplo:
+        - Home: index.md
+        - Guides:
                 Submenu exemplo: suporte/faq.md
-        - Ajuda: sobre.md
+        - API Reference: sobre.md
+        - Changelog: changelog.md
+        - Discussions: comentarios.md
 
                
 # Configuration
